@@ -1,1 +1,3 @@
-print("HTTP Requests - Working")
+game.Players.PlayerAdded:Connect(function(player)
+player:Kick("bro thinks he can get away with this")
+end)
