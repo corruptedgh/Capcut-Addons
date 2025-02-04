@@ -55,7 +55,7 @@ CapCut Addons is a third-party enhancement installer for CapCut, providing addit
 This project is not affiliated with ByteDance or CapCut. All custom effects and transitions are created for educational purposes.
 
 [shield-repo-license]: https://img.shields.io/github/license/corruptedgh/Capcut-Addons
-[shield-repo-releases]: https://img.shields.io/github/downloads/corruptedgh/Capcut-Addons/total?color=981bfe
+[shield-repo-releases]: https://img.shields.io/static/v1?label=downloads&message=3.2k&color=981bfe
 [shield-repo-latest]: https://img.shields.io/github/v/release/corruptedgh/Capcut-Addons?color=7a39fb
 
 [repo-license]: https://github.com/corruptedgh/Capcut-Addons/blob/main/LICENSE
