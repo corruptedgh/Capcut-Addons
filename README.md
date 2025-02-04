@@ -15,7 +15,7 @@ CapCut Addons is a third-party enhancement installer for CapCut, providing addit
 - Custom transitions inspired by kakav420's editing style
 - Automatic CapCut directory detection
 - Easy one-click installation process
-- Compatible with the latest version of CapCut
+- Compatible with the latest version of CapCut (microsoft store or official site)
 
 ## Installing
 
